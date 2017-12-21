@@ -1,0 +1,7 @@
+./gradlew submitCloudNativeDeveloperDistributedSystemWithServiceDiscovery \
+    -PregistrationServerUrl=https://registration-pal-eric.apps.cumuluslabs.io \
+    -PbacklogServerUrl=https://backlog-pal-eric.apps.cumuluslabs.io \
+    -PallocationsServerUrl=https://allocations-pal-eric.apps.cumuluslabs.io \
+    -PtimesheetsServerUrl=https://timesheets-pal-eric.apps.cumuluslabs.io
+
+
